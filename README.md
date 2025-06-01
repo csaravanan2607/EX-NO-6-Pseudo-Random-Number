@@ -1,7 +1,7 @@
 # Pseudo Random Number
-# Implementation of pseudo random number generation using standard library
+# Implementation of pseudorandom number generation using standard library
 ## Aim:
-To write a C program to implement the pseudo random number generation using standard library.
+To write a C program to implement the pseudorandom number generation using standard library.
 ## ALGORITHM:
 ### STEP-1: Start the program and import the required libraries.
 ### STEP-2: Seed the random number generator using the current time(i.e) rand(time(0));
